@@ -4,7 +4,7 @@
 
 XSStrike is an advanced XSS detection suite. It has a powerful fuzzing engine and provides zero false positive result using fuzzy matching. XSStrike is the first XSS scanner to generate its own payloads. It is intelligent enough to detect and break out of various contexts.
 
-Made with ![heart](https://cloud.githubusercontent.com/assets/4301109/16754758/82e3a63c-4813-11e6-9430-6015d98aeaab.png) by <a href=https://twitter.com/s0md3v>Somdev Sangwan</a>
+Made with ![heart](https://cloud.githubusercontent.com/assets/4301109/16754758/82e3a63c-4813-11e6-9430-6015d98aeaab.png) 
 
 ## Features
 - GET & POST method support
@@ -23,7 +23,7 @@ XSStrike is compatible with all \*nix based operating systems running Python 2.7
 Why not windows? My life, my rules. My code, my tools. Just kidding, it will run on windows as well but you will see some weird codes instead of color.
 First of all clone the repo by entering the following command in terminal
 ``` bash
-git clone https://github.com/UltimateHackers/XSStrike
+git clone https://github.com/R3K1NG/XSStrike
 ```
 Now naviagte to XSStrike directory
 ``` bash
@@ -44,4 +44,3 @@ python xsstrike
 #### Contribution & Sponsorship
 Want to contribute? What are you waiting for? Fork it and hit up with a pull request.
 
-Want to sponsor? Mail me at s0md3v@gmail.com
